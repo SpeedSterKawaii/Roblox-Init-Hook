@@ -14,4 +14,7 @@ Make sure it is on release or debug x86
 After changing, build it.
 <img src="https://cdn.discordapp.com/attachments/831555958101508236/843185040418799666/unknown.png">
 
+First, Inject the Exploit you want to use.
+Then Inject the Roblox-Init-Hook.dll with the Dll Tester.
+
 # Enjoy, just give credits.
