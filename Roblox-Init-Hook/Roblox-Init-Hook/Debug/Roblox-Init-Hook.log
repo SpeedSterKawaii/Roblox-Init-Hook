@@ -1,0 +1,4 @@
+﻿  HookModule.cpp
+C:\Users\user\source\repos\Roblox-Init-Hook\Roblox-Init-Hook\HookMessage.h(22,30): warning C4309: '=': truncation of constant value
+C:\Users\user\source\repos\Roblox-Init-Hook\Roblox-Init-Hook\HookMessage.h(36,27): warning C4309: '=': truncation of constant value
+  Roblox-Init-Hook.vcxproj -> C:\Users\user\source\repos\Roblox-Init-Hook\Debug\Roblox-Init-Hook.dll
